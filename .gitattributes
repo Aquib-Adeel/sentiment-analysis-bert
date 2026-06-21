@@ -1,0 +1,5 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+results/checkpoint-5000 filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+results/checkpoint-5000/* filter=lfs diff=lfs merge=lfs -text
