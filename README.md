@@ -40,7 +40,7 @@ A Streamlit web app that performs sentiment analysis on customer reviews using:
 - Switch between baseline and transformer models via dropdown.
 
 ## 🌐 Live Demo
-- Try the app here: Sentiment Analysis Demo (your-deployment-link in Bing)
+- Try the app here: Sentiment Analysis Demo (https://sentiment-analysis-bert-mlmodel.streamlit.app )-deployment-link
 
 ## 🧩 Models
 - Baseline: TF‑IDF + Logistic Regression (baseline_model.pkl)
